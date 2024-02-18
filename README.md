@@ -2,7 +2,7 @@
 
 ## Dataviz - Power Bi:
 
-Dashboard que apresenta diversas informações relacionadas a performance da Computer Store Co
+Dashboard que apresenta diversas informações relacionadas a performance da Computer Store Co (empresa fictícia para o case). Nesse Dash é possível visualizar a performance mensal e anual das vendas e também é possível avaliar essa performance por ipo de cliente e de produto.
 
 ![image](https://github.com/if-yan-miranda/dashboards/assets/116229324/cf67dc43-7e72-40af-afb3-48d3bded020d)
 
